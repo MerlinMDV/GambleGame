@@ -1,2 +1,2 @@
 # GambleGame
-Repository for Gamble Game
+Repository for Gamble Game.
